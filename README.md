@@ -8,5 +8,10 @@ This is a full tutorial on deploying s3, cloudfront, credentials manager, and ro
 [VPC PROJECT](https://github.com/UYIGITHUB/aws-projects/blob/main/vpc%20project/README.md)
 
 ```plain text
-This is a basic sanpshot of a well-architected virtual private cloud that can be setup of the base.
+This is a basic snapshot of a well-architected virtual private cloud that can be setup of the base.
+```
+[THREE VPC CONNECTION WITH NETWORK PEERING](https://github.com/UYIGITHUB/aws-projects/blob/main/3vpc%20connection%20with%20peering/README.md)
+
+```Plain text
+Prelimary design stages of three vpc in different AZs connected with peering
 ```
