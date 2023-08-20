@@ -3,7 +3,8 @@ note: create a like for admin/www/text/production/developer/staff/engineer.ontec
 This note demonstrates the hosting of a static website use Route 53 as the DNS service, cloudfront for caching content, certificate manager to SSL of packet request, and S3 bucket for storage. The image below shows the architectural work process of the design.
 
 
-![project architecture](<AWS S3-CLOUDFRONT Project/images/20230709003748.png>)
+![[Pasted image 20230709003748.png]]
+
 
 
 Step 1
@@ -12,19 +13,19 @@ On the AWS management console search ROUTE 53
 click registered domains 
 click register domains
 
-![Alt text](<AWS S3-CLOUDFRONT Project/images/20230709005906.png>)
+![[Pasted image 20230709005906.png]]
 
 Step 2
 
 select a unique name as your domain name, this name as to be unique.
-click select to choose the available name and make payment.
+click select to choose the available name and make payment
 
 
-![Alt text](<AWS S3-CLOUDFRONT Project/images/20230709010157.png>)
+![[Pasted image 20230709010157.png]]
 
-![Alt text](<AWS S3-CLOUDFRONT Project/images/20230709010511.png>)
+![[Pasted image 20230709010511.png]]
 
-![Alt text](<AWS S3-CLOUDFRONT Project/images/20230709010632.png>)
+![[Pasted image 20230709010632.png]]
 
 Uncheck the Auto-renew box
 click next
