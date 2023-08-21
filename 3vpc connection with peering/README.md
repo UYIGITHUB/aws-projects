@@ -5,7 +5,7 @@ Basic architectural layer out
 
 ![three vpc connection archicture](images/20230726220815.png)
 
-Main architecture
+Main network architecture
 
 ![Alt text](images/20230726211950.png)
 
