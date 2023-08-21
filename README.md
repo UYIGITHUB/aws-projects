@@ -15,3 +15,9 @@ This is a basic snapshot of a well-architected virtual private cloud that can be
 ```Plain text
 Prelimary design stages of three vpc in different AZs connected with peering
 ```
+[Ec2 to s3 connection](https://github.com/UYIGITHUB/aws-projects/blob/main/Ec2%20to%20s3%20connection/README.md)
+
+```Plain text
+
+Demonstration of EC2 connection to S3 bucket through ssh
+```
